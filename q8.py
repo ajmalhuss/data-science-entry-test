@@ -33,7 +33,7 @@ Constraints: Keep the summary concise and free of technical jargon.
 # Your answer: Prompt B
 
 # Q8b: Give TWO reasons to support your choice.
-# Your answer (Reason 1): It gives clear tasks defined in points to do
+# Your answer (Reason 1): It gives clear tasks defined in point  form to do.
 # Your answer (Reason 2): It defines the role for the AI, allowing it to think from that point of view.
 
 # Q8c: What is ONE strength of the prompt you did NOT choose?
